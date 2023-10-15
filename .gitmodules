@@ -1,3 +1,9 @@
 [submodule "X1P1/MAP412"]
 	path = X1P1/MAP412
 	url = https://github.com/isaigordeev/MAP412
+[submodule "TC/regressions"]
+	path = TC/regressions
+	url = https://github.com/isaigordeev/regressions
+[submodule "TC/INF371"]
+	path = TC/INF371
+	url = https://github.com/isaigordeev/INF371
