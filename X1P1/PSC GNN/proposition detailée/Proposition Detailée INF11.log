@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.6)  14 OCT 2023 01:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.6)  16 OCT 2023 20:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -868,7 +868,7 @@ e
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
-<polytechnique-armes.pdf, id=35, 195.20929pt x 257.65259pt>
+<polytechnique-armes.pdf, id=31, 195.20929pt x 257.65259pt>
 File: polytechnique-armes.pdf Graphic file (type pdf)
 <use polytechnique-armes.pdf>
 Package pdftex.def Info: polytechnique-armes.pdf  used on input line 40.
@@ -879,7 +879,7 @@ LaTeX Font Info:    Trying to load font information for T1+lmss on input line 4
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Info: Redefining \\ on input line 40.
-<polytechnique-filetcourt.pdf, id=36, 28.40613pt x 2.1681pt>
+<polytechnique-filetcourt.pdf, id=32, 28.40613pt x 2.1681pt>
 File: polytechnique-filetcourt.pdf Graphic file (type pdf)
 <use polytechnique-filetcourt.pdf>
 Package pdftex.def Info: polytechnique-filetcourt.pdf  used on input line 40.
@@ -914,7 +914,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <12> on input line 40.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10> on input line 40.
-<polytechnique-logovert.pdf, id=37, 322.46072pt x 560.54622pt>
+<polytechnique-logovert.pdf, id=33, 322.46072pt x 560.54622pt>
 File: polytechnique-logovert.pdf Graphic file (type pdf)
 <use polytechnique-logovert.pdf>
 Package pdftex.def Info: polytechnique-logovert.pdf  used on input line 40.
@@ -924,14 +924,18 @@ Package pdftex.def Info: polytechnique-logovert.pdf  used on input line 40.
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./polyt
 echnique-armes.pdf> <./polytechnique-filetcourt.pdf> <./polytechnique-logovert.
 pdf>]
-<polytechnique-logohori.pdf, id=75, 625.50987pt x 227.64648pt>
-File: polytechnique-logohori.pdf Graphic file (type pdf)
-<use polytechnique-logohori.pdf>
-Package pdftex.def Info: polytechnique-logohori.pdf  used on input line 46.
-(pdftex.def)             Requested size: 156.35799pt x 56.90453pt.
- [2
+! Undefined control sequence.
+\@mkboth ->\ttl@savemark 
+                         \@gobbletwo 
+l.44 \tableofcontents
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
- <./polytechnique-logohori.pdf>] (./Proposition Detailée INF11.toc
+(./Proposition Detailée INF11.toc
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 2.
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -940,34 +944,33 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 \tf@toc=\write5
 \openout5 = `"Proposition Detailée INF11.toc"'.
 
- [3]
-Overfull \hbox (10.42426pt too wide) in paragraph at lines 71--71
-|[]\T1/lmr/bx/n/17.28 Les contri-bu-tions des par-te-naires in-ternes (la-bo-ra
--toires,
- []
+ [2
 
+]
+<polytechnique-logohori.pdf, id=84, 625.50987pt x 227.64648pt>
 File: polytechnique-logohori.pdf Graphic file (type pdf)
 <use polytechnique-logohori.pdf>
 Package pdftex.def Info: polytechnique-logohori.pdf  used on input line 78.
 (pdftex.def)             Requested size: 156.35799pt x 56.90453pt.
-[4]
+ [3 <./polytechnique-logohori.pdf>]
 File: polytechnique-logohori.pdf Graphic file (type pdf)
 <use polytechnique-logohori.pdf>
-Package pdftex.def Info: polytechnique-logohori.pdf  used on input line 131.
+Package pdftex.def Info: polytechnique-logohori.pdf  used on input line 132.
 (pdftex.def)             Requested size: 156.35799pt x 56.90453pt.
- [5] (./Proposition Detailée INF11.aux)
+
+[4] (./Proposition Detailée INF11.aux)
 Package rerunfilecheck Info: File `"Proposition Detailée INF11".out' has not 
 changed.
-(rerunfilecheck)             Checksum: 59F01DD7801225A0431136017559753B;2964.
+(rerunfilecheck)             Checksum: AD1993DE0722D4FEA36C0EA0406DCFB4;1953.
  ) 
 Here is how much of TeX's memory you used:
- 23670 strings out of 478268
- 440471 string characters out of 5846348
- 737129 words of memory out of 5000000
- 41489 multiletter control sequences out of 15000+600000
+ 23669 strings out of 478268
+ 440468 string characters out of 5846348
+ 737130 words of memory out of 5000000
+ 41490 multiletter control sequences out of 15000+600000
  520277 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,11n,80p,812b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 83i,11n,80p,1079b,475s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/
 texlive/2022/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/20
 22/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2022/texmf-
@@ -975,10 +978,10 @@ dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/
 type1/public/lm/lmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/publi
 c/lm/lmss17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmssb
 x10.pfb>
-Output written on "Proposition Detailée INF11.pdf" (5 pages, 1463843 bytes).
+Output written on "Proposition Detailée INF11.pdf" (4 pages, 1463454 bytes).
 PDF statistics:
- 151 PDF objects out of 1000 (max. 8388607)
- 106 compressed objects within 2 object streams
- 13 named destinations out of 1000 (max. 500000)
- 89 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 138 PDF objects out of 1000 (max. 8388607)
+ 95 compressed objects within 1 object stream
+ 11 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 

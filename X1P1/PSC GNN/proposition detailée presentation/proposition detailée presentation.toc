@@ -1,0 +1,8 @@
+\babel@toc {french}{}\relax 
+\beamer@sectionintoc {1}{Les enjeux et la motivation du travail proposé}{3}{0}{1}
+\beamer@sectionintoc {2}{La revue et une analyse de l’état de l’art ainsi que des approches concurrentes et alternatives}{7}{0}{2}
+\beamer@subsectionintoc {2}{1}{Les approches alternatives}{8}{0}{2}
+\beamer@subsectionintoc {2}{2}{La revue et une analyse de l’état de l’art}{10}{0}{2}
+\beamer@sectionintoc {3}{Les objectifs intermédiaires et leur échéancier}{13}{0}{3}
+\beamer@sectionintoc {4}{L’organisation du travail et la répartition du travail}{15}{0}{4}
+\beamer@sectionintoc {5}{L’identification des moyens auxquels le projet fera appel}{17}{0}{5}

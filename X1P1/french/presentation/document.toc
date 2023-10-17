@@ -1,0 +1,10 @@
+\babel@toc {french}{}\relax 
+\beamer@sectionintoc {1}{But?}{3}{0}{1}
+\beamer@sectionintoc {2}{La Petite Histoire du Vin}{5}{0}{2}
+\beamer@sectionintoc {3}{Les technologies des années 2000 et plus loin..}{12}{0}{3}
+\beamer@subsectionintoc {3}{1}{Capteurs}{14}{0}{3}
+\beamer@subsectionintoc {3}{2}{GPS et cartographie}{15}{0}{3}
+\beamer@subsectionintoc {3}{3}{Drones}{18}{0}{3}
+\beamer@subsectionintoc {3}{4}{Analyse de données et intelligence artificielle}{20}{0}{3}
+\beamer@sectionintoc {4}{DR-IACNN}{22}{0}{4}
+\beamer@sectionintoc {5}{Et le futur?}{23}{0}{5}
